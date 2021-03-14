@@ -42,6 +42,7 @@ Women helpline department
 * CSS
 * JavaScript
 * Bootstrap
+* Raspberry Pi with Camera Module
 
 ## 4-Deliverables:
 
