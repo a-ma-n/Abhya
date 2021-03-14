@@ -1,0 +1,125 @@
+.button1 {
+    width: 166.2049861495845vh;
+    height: 10.387811634349031vh;
+    background: #ffff;
+    opacity: 1;
+    position: absolute;
+    top: 13.850415512465373vh;
+    left: 20.775623268698062vh;
+    border: 0.4155124653739612vh solid #001B5E;
+    border-radius: 1.6620498614958448vh;
+    overflow: hidden;
+    text-align: center;
+    font-family: "cormorant";
+  }
+  .button2 {
+    width: 138.50415512465375vh;
+    height: 10.387811634349031vh;
+    background:#ffff;
+    opacity: 1;
+    position: absolute;
+    top: 27.700831024930746vh;
+    left: 34.62603878116344vh;
+    border: 0.4155124653739612vh solid #001B5E;
+    border-radius: 1.6620498614958448vh;
+    overflow: hidden;
+    text-align: center;
+    font-family: "cormorant"
+  }
+  .button3 {
+    width: 138.50415512465375vh;
+    height: 10.387811634349031vh;
+    background: #ffff;
+    opacity: 1;
+    position: absolute;
+    top: 41.551246537396125vh;
+    left: 34.62603878116344vh;
+    border: 0.4155124653739612vh solid #001B5E;
+    border-radius: 1.6620498614958448vh;
+    overflow: hidden;
+    text-align: center;
+    font-family: "cormorant"
+  }
+  .button4 {
+    width: 138.50415512465375vh;
+    height: 10.387811634349031vh;
+    background: #ffff;
+    opacity: 1;
+    position: absolute;
+    top:  55.40166204986149vh;
+    left: 34.62603878116344vh;
+    border: 0.4155124653739612vh solid #001B5E;
+    border-radius: 1.6620498614958448vh;
+    overflow: hidden;
+    text-align: center;
+    font-family: "cormorant"
+  } 
+  .button5 {
+    width: 138.50415512465375vh;
+    height: 10.387811634349031vh;
+    background: #ffff;
+    opacity: 1;
+    position: absolute;
+    top: 69.25207756232687vh;
+    left: 34.62603878116344vh;
+    border: 0.4155124653739612vh solid #001B5E;
+    border-radius: 1.6620498614958448vh;
+    overflow: hidden;
+    text-align: center;
+    font-family: "cormorant"
+  }  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 15%;
+    background-color:#001B5E;
+    color: white;
+    text-align: center;
+  }
+  .quote {
+    position: fixed;
+    left:70vh;
+    font-family: "cormorant"
+  }
+  .background {
+    position: fixed;
+    height: 70% ;
+    width: 40%;
+    left: 63%;
+    background-color:#FFF7FC;
+  }
+  .navbar-brand
+  {
+    margin: 0;
+    padding: 0;
+  }
+  .button1:hover {
+  background-color: #001B5E;
+  color:#FFF7FC ;
+  }
+ .button2:hover {
+  background-color: #001B5E;
+  color:#FFF7FC ;
+  }
+ .button3:hover {
+  background-color: #001B5E;
+  color:#FFF7FC ;
+ }
+.button4:hover {
+  background-color: #001B5E;
+  color:#FFF7FC ;
+  }
+.button5:hover {
+  background-color: #001B5E;
+  color:#FFF7FC ;
+}
+.github {
+  position: fixed;
+  top:88.6%;
+}
+.links {
+  position: fixed;
+  top:95%;
+}
