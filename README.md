@@ -35,13 +35,13 @@ Forensics
 Women helpline department
 ## 3-Tech stack:
 
-Tensorflow
-Keras
-Flask
-HTML
-CSS
-JavaScript
-Bootstrap
+* Tensorflow
+* Keras
+* Flask
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
 
 ## 4-Deliverables:
 
