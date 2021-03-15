@@ -1,5 +1,6 @@
 # Abhya<img src="" alt="" border="0" width = "2000"></a>
-![logo](https://user-images.githubusercontent.com/72293452/111137198-835d6980-85a4-11eb-926c-2d70b539abec.png)
+![wing-logo-template_5417-183-2](https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg)
+
 
 
 ### Table of Contents
