@@ -52,7 +52,7 @@ Here is a video about our product. Please click on the image to view the video.
 ______
 
 ## Creators
--Aman 
--Hrithik
--Samiksha
--Suhani
+* Aman 
+* Hrithik
+* Samiksha
+* Suhani
