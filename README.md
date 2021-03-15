@@ -35,6 +35,7 @@ _________
 * Raspberry Pi with Camera Module
 ____________
 ## Requirements analysis:
+Download the required weights file for the tensorflow model from [here](https://drive.google.com/file/d/1nscP1UltyKbs2Sg5-ULvWVwbexPjJ2-e/view?usp=sharing)
 
 #### Raspberry Pi Camera
 
