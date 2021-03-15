@@ -1,5 +1,7 @@
-# Abhya<img src="" alt="" border="0" width = "2000"></a>
-![wing-logo-template_5417-183-2](https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg)
+# Abhya
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
+</p>
 
 
 
@@ -58,11 +60,6 @@ _______
 ![Screenshot 2021-03-15 at 12 17 46 PM](https://user-images.githubusercontent.com/72293452/111129324-f57d8080-859b-11eb-9b2e-5a98465376fa.png)
 
 ___
-## Video Submission
-
-Here is a video about our product.
-______
-
 ## Creators
 * [Aman Ali](https://github.com/a-ma-n) 
 * [Hrithik Purwar](https://github.com/hrithikpurwar)
