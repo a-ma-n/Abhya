@@ -46,6 +46,15 @@ ________
 ## Novelty of the Project
 Unlike most of the surveillance systems which use CCTV cameras to get recordings of activities in an area, our project used the module of Rpi as a hidden camera due to the advantage of its small size to send live alerts using the ML model. The ML model detects the voilence as well as the percentage of voilence.
 _______
+## UI/UX
+
+![Screenshot 2021-03-15 at 2 37 58 PM](https://user-images.githubusercontent.com/72293452/111129422-12b24f00-859c-11eb-8272-cffe56bc6d34.png)
+![Screenshot 2021-03-15 at 1 32 10 PM](https://user-images.githubusercontent.com/72293452/111129618-4db48280-859c-11eb-9e4e-30d63f86c1ba.png)
+
+![Screenshot 2021-03-15 at 12 16 55 PM](https://user-images.githubusercontent.com/72293452/111129298-edbddc00-859b-11eb-839e-dd159ec67913.png)
+![Screenshot 2021-03-15 at 12 17 46 PM](https://user-images.githubusercontent.com/72293452/111129324-f57d8080-859b-11eb-9b2e-5a98465376fa.png)
+
+___
 ## Video Submission
 
 Here is a video about our product.
@@ -54,5 +63,5 @@ ______
 ## Creators
 * Aman 
 * Hrithik
-* Samiksha
+* Samikshya
 * Suhani
