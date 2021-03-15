@@ -1,4 +1,4 @@
-# Abhya<img src="" alt="Frame-9" border="0" width = "2000"></a>
+# Abhya<img src="" alt="" border="0" width = "2000"></a>
 
 ### Table of Contents
 * About the Product
