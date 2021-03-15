@@ -48,7 +48,7 @@ Unlike most of the surveillance systems which use CCTV cameras to get recordings
 _______
 ## Video Submission
 
-Here is a video about our product. Please click on the image to view the video.
+Here is a video about our product.
 ______
 
 ## Creators
