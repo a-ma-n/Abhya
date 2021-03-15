@@ -1,4 +1,6 @@
 # Abhya<img src="" alt="" border="0" width = "2000"></a>
+![logo](https://user-images.githubusercontent.com/72293452/111137198-835d6980-85a4-11eb-926c-2d70b539abec.png)
+
 
 ### Table of Contents
 * About the Product
@@ -24,7 +26,7 @@ _________
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+* Flexbox
 * Raspberry Pi with Camera Module
 ____________
 ## Requirements analysis:
