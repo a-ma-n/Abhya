@@ -1,4 +1,6 @@
-# Abhya
+<h1 align="center">
+ Abhya
+ </h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72293452/111137482-d9321180-85a4-11eb-8e61-dae7d08bebaa.jpg">
 </p>
