@@ -9,7 +9,7 @@
 * Video
 * Creators
 __________
-#### About the Product
+## About the Product
 Gone are the days when you would fear to go out alone at night. Abhaya provides a unique solution which entirely transforms the whole situation. Now one can go out fearlessly wherever and whenever they want.
 
 In recent years, there have been many cases of violence against women which could have been prevented if the authorities would have detected it earlier and had taken proper action. This web app helps the Police to streamline their way of work and work effectively towards women safety which is a major issue in our country.
@@ -27,7 +27,7 @@ _________
 * Bootstrap
 * Raspberry Pi with Camera Module
 ____________
-## 1-Requirements analysis:
+## Requirements analysis:
 
 ## Raspberry Pi Camera
 
