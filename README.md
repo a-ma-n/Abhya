@@ -2,13 +2,12 @@
 
 ### Table of Contents
 * About the Product
-	* Tech Stack
-	* Target Audience
-  * Statistical analysis
-* Business Model
-  * Target Audience.
-  * Branding
+* Tech Stack
+* Requirement Analysis
+* Target Audience
+* Novelty of the Project
 * Video
+* Creators
 __________
 #### About the Product
 Gone are the days when you would fear to go out alone at night. Abhaya provides a unique solution which entirely transforms the whole situation. Now one can go out fearlessly wherever and whenever they want.
@@ -17,7 +16,7 @@ In recent years, there have been many cases of violence against women which coul
 
 Our web application will help to detect violence, and as soon as the violence is detected, the application will send an alert to the nearby police station. The police can further decide if the situation needs an emergency action as well as what other departments to communicate with .We also have an option to ignore the alert if there’s some misunderstanding and it is not actually a case of violence.
 _________
-## 3-Tech stack:
+## Tech stack:
 
 * Tensorflow
 * Keras
@@ -30,28 +29,30 @@ _________
 ____________
 ## 1-Requirements analysis:
 
-### Raspberry Pi Camera
+## Raspberry Pi Camera
 
  Raspberry Pi Cameras will have our software installed based on the deep learning model.
 
 
-### Police Station
+## Police Station
 
 The website opened on their system. Their system should receive live feed of the nearby cameras connected in the area All the contact numbers of various emergency departments stored in their system
 ____________
-#### Target Audience
+## Target Audience
 * Women.
 * Children
 * Underpriviliged and socially oppressed classes
 ________
-#### Novelty of the Project
+## Novelty of the Project
 Unlike most of the surveillance systems which use CCTV cameras to get recordings of activities in an area, our project used the module of Rpi as a hidden camera due to the advantage of its small size to send live alerts using the ML model. The ML model detects the voilence as well as the percentage of voilence.
 _______
-#### Video Submission
+## Video Submission
 
 Here is a video about our product. Please click on the image to view the video.
 ______
 
-### Creators
-
-
+## Creators
+->Aman 
+->Hrithik
+->Samiksha
+->Suhani
