@@ -64,7 +64,7 @@ Here is a video about our product.
 ______
 
 ## Creators
-* Aman 
-* Hrithik
-* Samikshya
-* Suhani
+* [Aman Ali](https://github.com/a-ma-n) 
+* [Hrithik Purwar](https://github.com/hrithikpurwar)
+* [Samikshya Sarangi](https://github.com/Samikshyasarangi436)
+* [Suhani Bajaj](https://github.com/SuhaniBajaj-23)
